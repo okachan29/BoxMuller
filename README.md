@@ -12,7 +12,7 @@ Lower indicates is the Cumulative Distribution Function graph.
 y-axis indicates the Sum of cumulative probabilities up to the range, and x-axis shows the class.
 It means, it gets closer to 1.0 when the class get higher.
 
-#ボックスミュラー法
+# ボックスミュラー法
 こちらは、ボックスミュラー法によるシミュレータです。
 
 入力値として、平均、分散、標本数を与えることができます。
